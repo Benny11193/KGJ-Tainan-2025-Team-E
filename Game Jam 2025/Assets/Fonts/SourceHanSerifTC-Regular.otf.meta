@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: c9444aac4ef3dc644ba2bfcd2889c83a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Source Han Serif TC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 169286082d311604c8fcaff869d927b5, type: 3}
+  - {fileID: 12800000, guid: 8296ab9d21d56ce4db8550a4fca4daf0, type: 3}
+  - {fileID: 12800000, guid: f202790aa92692b439cb47deafd2ed9c, type: 3}
+  - {fileID: 12800000, guid: f3f7e06dd6544b949806202f8c596e69, type: 3}
+  - {fileID: 12800000, guid: 80f96a8bafdfa3648b12978678d5feaa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

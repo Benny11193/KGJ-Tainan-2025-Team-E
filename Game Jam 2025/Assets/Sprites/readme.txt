@@ -1,0 +1,1 @@
+<a href="https://www.flaticon.com/free-icons/cash" title="cash icons">Cash icons created by Freepik - Flaticon</a>
